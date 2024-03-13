@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">FavoriteArtists</string>
+    <string name="artists_name">Artist Name</string>
+    <string name="description">Description</string>
+    <string name="my_name">Febi Fiantika</string>
+    <string name="my_email">febifian23@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>ENHYPEN</item>
+        <item>Stray Kids</item>
+        <item>GEMINI</item>
+        <item>Xdinary Heroes</item>
+        <item>Chase Atlantic</item>
+        <item>Lana Del Rey</item>
+        <item>New Jeans</item>
+        <item>Ateez</item>
+        <item>BIG Naughty</item>
+        <item>JMIN</item>
+        <item>WOODZ</item>
+        <item>Tabber</item>
+        <item>PENOMECO</item>
+        <item>DPR IAN</item>
+        <item>P1Harmony</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>ENHYPEN (엔하이픈) is the final 7 members of the survival show I-LAND under BE:LIFT Lab, a subsidiary label under HYBE. The group consists of Heeseung, Jay, Jake, Sunghoon, Sunoo, Jungwon, and Ni-ki. They debuted on November 30th, 2020 with the mini album, “BORDER: DAY ONE“. The group made their Japanese debut on July 6th, 2021. The group released their first studio album, DIMENSION : DILEMMA in October of 2021. The album has exceeded one million copies sold worldwide, leading ENHYPEN to become the first 4th-generation boy group to do so. ENHYPEN received the Best New Artist award at several award shows including, Asia Artist Award, Golden Disc Award, Melon Music Award, Mnet Asian Music Award.
+        The group began 2022 with a release of the repackaged album, DIMENSION : ANSWER, featuring title track “Blessed-Cursed” and the fan-favorite, “Polaroid Love”. In the same year, ENHYPEN released their third mini album, MANIFESTO : DAY 1 which became the septet’s second album to sell one million units. ENHYPEN continued their success with their fourth mini album in 2023, DARK BLOOD which became their first ever Top 5 Billboard 200 entry. In 2022, they also kicked off their first worldwide arena tour on September 17 with two concerts in Seoul. In 2023, they embarked on their second world tour with dates in the United States.</item>
+        <item>Stray Kids (스트레이 키즈) is a South Korean boy group under JYP Entertainment. The group consists of 8 members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, and I.N. They debuted on March 25, 2018. The group was created through the survival program with the same name, Stray Kids. As of February 10th, 2022, they are also signed under Republic Records. Stray Kids is a K-pop group formed by JYP Entertainment through the 2017 reality show of the same name. The band has eight members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N. They can further be separated into three units: 3RACHA (the producing/rap unit), VOCALRACHA (the vocal unit) and DANCERACHA (the dance unit).</item>
+        <item>GEMINI (제미나이) is a South Korean rapper and producer under AREA. He debuted on November 1, 2020 with the single album Going. Kim Jaemin (김재민), born June 14, 1994, and known professionally as GEMINI (제미나이), is a South Korean RandB singer signed to hip-hop label H1GHR MUSIC.</item>
+        <item>Xdinary Heroes (엑스디너리 히어로즈) is a boy band under STUDIO J, sub-label of JYP Entertainment. The band currently consists of Gunil, Jungsu, Gaon, O.de, Jun Han, and Jooyeon. They debuted on December 6th, 2021 with the single “Happy Death Day“. The band consists of 6 members: Gunil, Jung Su, Gaon, O.de, Jun Han and Jooyeon. The group’s name is an abbreviation of “Extra Ordinary Heroes,” in a quick word choice, known to be as anybody can be a hero.</item>
+        <item>Chase Atlantic is an Australian RB band and production trio from Cairns, Queensland, formed in 2014. The group consists of three members: Christian Anthony, Clinton Cave and Mitchel Cave. Chase Atlantic has released seven EPs and three albums.</item>
+        <item>Elizabeth Woolridge Grant (born June 21, 1985), known professionally as Lana Del Rey, is an American singer-songwriter. Her music is noted for its cinematic quality and exploration of tragic romance, glamour, and melancholia, with frequent references to contemporary pop culture and 1950s–70s Americana.Her vintage Hollywood glamour aesthetic is presented not only in her music, but also in her music videos.</item>
+        <item>NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention” on July 22, 2022, followed by their debut extended play, New Jeans, which was released on August 1, 2022.</item>
+        <item>ATEEZ (에이티즈), known pre-debut as KQ Fellaz, is a 8-member boy group under KQ Entertainment. The group consists of: Seonghwa, Hongjoong, Yunho, Yeosang, San, Mingi, Wooyoung and Jongho. They released the pre-debut song ‘From‘ on July 9, 2018 with another trainee named Junyoung. The group debuted on October 24, 2018 with the mini-album “Treasure Ep.1: All to Zero“. On July 8, 2019, ATEEZ signed with USA record label RCA Records. They are also signed to the Japanese record label Nippon Columbia since 2019.</item>
+        <item>BIG Naughty / 빅나티 is a South Korean rapper under H1GHR MUSIC. He debuted in November, 2019 with the single, ‘Where It All Started Remix (시발점 Remix)‘.</item>
+        <item>JMIN is a Korean-American rapper under H1GHR MUSIC. He debuted with the EP Homecoming on August 13, 2021.</item>
+        <item>WOODZ (우즈) is a soloist, a member of UNIQ, and a former member of Produce X 101’s X1. He debuted solo on July 29, 2016 with the single “Recipe” under his former stage name. He began going by WOODZ in 2018. He’s currently under EDAM Entertainment.</item>
+        <item>Tabber (태버) is a South Korean alternative rapper and singer who debuted under artist DEAN’s indie label, you.will.knovv. He is known for popular songs “3AM Honjowolf Freestyle” with frequent collaborator, Kim Ximya and DEAN, as well as “BAD BAD” produced by Code Kunst.</item>
+        <item>PENOMECO is a Korean rapper born in 1992, he is part of the crew Fanxy Child with Dean, Zico, Crush and Millic. He participated in 2017 to the season 6 of Show Me The Money TV-show. He has also written songs for artist such as Exo, Red Velvet and Got7</item>
+        <item>Christian Yu, known under the stage names DPR IAN and Rome, is a Korean-Australian singer, songwriter, rapper, director, and composer in Dream Perfect Regime (DPR).</item>
+        <item>P1Harmony (KOR: 피원하모니) is a South-Korean boy group under FNC Entertainment. The group consists of 6 members: KEEHO, THEO, JIUNG, INTAK, SOUL and JONGSEOB.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/enhypen</item>
+        <item>@drawable/stray_kids</item>
+        <item>@drawable/gemini</item>
+        <item>@drawable/xdinary_heroes</item>
+        <item>@drawable/chase_atlantic</item>
+        <item>@drawable/lana_del_rey</item>
+        <item>@drawable/newjeans</item>
+        <item>@drawable/ateez</item>
+        <item>@drawable/big_naughty</item>
+        <item>@drawable/jmin</item>
+        <item>@drawable/woodz</item>
+        <item>@drawable/tabber</item>
+        <item>@drawable/penomeco</item>
+        <item>@drawable/dpr_ian</item>
+        <item>@drawable/p1_harmony</item>
+    </integer-array>
+
+<!--    <string-array name="data_description">-->
+<!--        <item>-->
+<!--            ENHYPEN debuted on November 30, 2020, with the release of their first mini album BORDER : DAY ONE. Their second mini album, BORDER : CARNIVAL, was released on April 26, 2021. That year, the group also released their Japanese debut album, BORDER : Hakanai, that closed the BORDER series. The album’s lead track, “Forget Me Not,” served as the OST for the Japanese anime series RE-MAIN.-->
+<!--        The group released their first studio album, DIMENSION : DILEMMA in October of 2021. The album has exceeded one million copies sold worldwide, leading ENHYPEN to become the first 4th-generation boy group to do so. ENHYPEN received the Best New Artist award at several award shows including, Asia Artist Award, Golden Disc Award, Melon Music Award, Mnet Asian Music Award.-->
+<!--        The group began 2022 with a release of the repackaged album, DIMENSION : ANSWER, featuring title track “Blessed-Cursed” and the fan-favorite, “Polaroid Love”. In the same year, ENHYPEN released their third mini album, MANIFESTO : DAY 1 which became the septet’s second album to sell one million units. ENHYPEN continued their success with their fourth mini album in 2023, DARK BLOOD which became their first ever Top 5 Billboard 200 entry.-->
+<!--        In 2022, they also kicked off their first worldwide arena tour on September 17 with two concerts in Seoul. In 2023, they embarked on their second world tour with dates in the United States.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Stray Kids is a K-pop group formed by JYP Entertainment through the 2017 reality show of the same name. The band has eight members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N. They can further be separated into three units: 3RACHA (the producing/rap unit), VOCALRACHA (the vocal unit) and DANCERACHA (the dance unit).-->
+<!--            Stray Kids first self-produced tracks were shown during the survival show, with first single “Hellevator” getting a music video prior to the show’s premiere. The rest of the tracks were included in their January 2018 pre-debut EP titled Mixtape which debuted at #2 on Gaon Album Chart and Billboard World Albums Chart.-->
+<!--            Stray Kids officially debuted on March 25, 2018, with their lead single “District 9” and EP I am NOT. This was followed by two more EPs in 2018, I am WHO? and I am YOU. These three EPs make up Stray Kids' first trilogy, dubbed the I am… series. They were met with widespread success in 2018, with each EP outselling the last. Stray Kids picked up eight rookie awards in the 2018 award season.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Kim Jaemin (김재민), born June 14, 1994, and known professionally as GEMINI (제미나이), is a South Korean R&amp;B singer signed to hip-hop label H1GHR MUSIC.-->
+<!--            GEMINI made his official debut on November 1, 2020 with the single album Going, which included an eponymous lead single, as well as B-side track “Broken Love.”-->
+<!--            In 2021 he released the full English song “Know me” as well as his collaboration with Dazed Korea, Trip, a two-song project with H1GHR MUSIC founder Jay Park. This was followed by his first mini-album Inside Out, which featured seven songs, including title track “UFO” and the pre-released single “MIA.”-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Xdinary Heroes (엑스디너리 히어로즈) is a South Korean pop-rock band formed under JYP Entertainment. The band consists of 6 members: Gunil, Jung Su, Gaon, O.de, Jun Han and Jooyeon. The group’s name is an abbreviation of “Extra Ordinary Heroes,” in a quick word choice, known to be as anybody can be a hero.-->
+<!--            On October 24, 2021, two months before their debut, their label posted the official teaser for the group. They debuted on December 6, 2021, with the energetic, fun single, “Happy Death Day.”-->
+<!--            In July 2022, Xdinary Heroes released their first mini-album, Hello, world! lead by it’s lead track, “Test Me.” The album saw success both globally and in Korea, debuting at #4 on the Circle Chart on the week of release. The band made their third release with Overload on November 11th 2022–breaking their previous record of first-week sales.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Chase Atlantic is an Australian pop band, which consists of main vocalist Mitchel Cave, Clinton Cave, and Christian Anthony, as well as their tourmates: drummer Jesse Boyle and bassist Patrick Wilde.-->
+<!--            The trio is known to write and produce all music together with promotional assistance from Fearless Records and graphic design led by Clinton Cave. He also acts as an arranger of Mitchel Cave and Christian Anthony’s work. Their music is known for dark, alternative R&amp;B, rap, pop, and indie rock influences.-->
+<!--            Initially, the band formed in 2011 and released two EPs: Dalliance (2014) and Nostalgia (2015). They were first to sign to MDDN, a management company owned by brothers and rock artists from Good Charlotte.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            At age 18, Lana began performing in clubs around Brooklyn, NY under various monikers including Lizzy Grant, May Jailer, and Sparkle Jump Rope Queen. Around the same time, she began attending Fordham University in The Bronx, where she majored in philosophy with a specific focus on metaphysics.-->
+<!--            Is what she said about her degree when asked. The theme of God and science remains persistent in all of her music. Alongside her college major, some of her song themes were the effect of attending a Christian high school.-->
+<!--            She signed her first recording contract with 5 Points Records in 2007 and her first digital album, Lana Del Ray a.k.a. Lizzy Grant, was released in January 2010.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            In July 2019, HYBE (then BigHit Entertainment) announced that Min Hee Jin will join the company and will lead a new girl group project held together by BigHit and Source Music via the Plus Global Audition. In late 2021, HYBE revealed that the group will debut in 2022 under the new independent subsidiary label, ADOR, and Min as the CEO of it.-->
+<!--            As a part of their pre-debut activities, several group members were active in the entertainment industry, including Hyein being a member of Play With Me Club, while Hanni and Minji appeared in the music video for BTS “Permission to Dance”.-->
+<!--            On October 18 of the same year, ADOR confirmed that the group was preparing for their first-ever comeback. The pre-release single, “Ditto,” was released the next day on December 19, along with two music videos and followed later on by their first album, OMG.-->
+<!--            In July 2023, NewJeans released the two pre-release singles, “Super Shy,” and “New Jeans,” to their second mini-album, Get Up. Surprisingly, the single, “New Jeans” and the Get Up album was in collaboration with The Powerpuff Girls for their 25th anniversary.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Before their debut, members of the group appeared on YG Entertainment’s Mixnine. Additionally, they released performance videos of choreography to popular songs, such as Cardi B’s “Lick (feat. Offset)” and Famous Dex’s “Pick It Up (feat. A$AP Rocky).” These videos gained international media attention with over one million views.-->
+<!--            ATEEZ debuted in October 2018 with double-titles “해적왕 (Pirate King)” and “Treasure.” off the first installment of their TREASURE series, TREASURE EP. 1: ALL TO ZERO, while the second and third instalments followed in January and June of 2019 respectively. Additionally, the title track off of ONE TO ALL, “Wave” garnered the group their first music show win and their first full length album, October 2019’s EP.FIN: ALL TO ACTION became the group’s first project to top the Gaon charts. They have also managed to receive multiple accolades during the annual K-pop end of the year award show season, including the Worldwide Fans\' Choice category at the 2019 MNET Asian Music Awards. They completed their TREASURE series with the release of its last installment EP.FIN: ACTION TO ANSWER in early 2020.-->
+<!--            ATEEZ started 2021 with the Part.2 of their ZERO : FEVER series in March, which saw Mingi not participate in promotions due to his hiatus. ATEEZ ranked third place on Kingdom: Legendary War. Following this, their Japanese single album Dreamers was released in July and Summer Songs, a collaboration project between the group and TURBO’s Kim Jongkook was released in August with Mingi returning to group activities. Part 3 of ZERO : FEVER was released in September.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Big Naughty is a South Korean rapper who is signed to H1GHR MUSIC, after amassing recognition and popularity through South Korean rap survival Show Me The Money in its eighth season.-->
+<!--            He has released a number of singles as well as his first EP, Bucket List, in the February of 2021. BIG Naughty has released several collaboration tracks with artists like Jay Park, GIRIBOY, Jamie, eaJ to name a few.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            JMIN first started receiving major attention after his song “Spaceship” was released on No Jumper’s YouTube channel.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            WOODZ (우즈) is a soloist, a member of UNIQ, and a former member of Produce X 101’s X1. He debuted solo on July 29, 2016 with the single “Recipe” under his former stage name. He began going by WOODZ in 2018. He’s currently under EDAM Entertainment.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            On August 13th 2020, Tabber released his debut mixtape Deep End Mixtape, featuring the the title track “Look At My.” Musically, he is known for his gruff voice and versatility to shift between rap and vocals. His songs often have moody themes and are accompanied by heavy instrumentals, such as “Like A Vampire” and “want YOU.”-->
+<!--            In 2021, he participated in the 10th season of the popular rap reality TV show, Show Me The Money, where he participated under Team Gaeko and Code Kunst. In 2023, he released a slew of pre-release singles for his second studio project, Madness Always Turns to Sadness, along with the OST for the K-Drama, Numbers.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            PENOMECO is a Korean rapper born in 1992, he is part of the crew Fanxy Child with Dean, Zico, Crush and Millic. He participated in 2017 to the season 6 of Show Me The Money TV-show. He has also written songs for artist such as Exo, Red Velvet and Got7.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            Yu started out as a K-pop idol called Rome, being the leader, main rapper, and dancer of the boy group C-Clown, which was formed in 2012 by Yedang Entertainment. The group disbanded in 2015, and Yu later revealed that his experience in the K-pop industry had been pretty traumatic. From the agency’s treatment to his fear of exposing his bipolar disorder and need of creative freedom.-->
+<!--            That’s why he created Dream Perfect Regime and made his solo debut as DPR IAN with the release of his critically acclaimed 2021 album Moodswings in This Order, a cathartic record that dealt with themes of mental health, self-acceptance, and personal struggles. The album spawned the successful single “No Blueberries”, featuring fellow DPR member DPR LIVE and Korean rapper CL.-->
+<!--            On August 4, 2023, Yu dropped “Peanut Butter &amp; Tears,” the first single of his new EP Dear Insanity…. This song was followed by “So I Danced” in September and the title track “Don’t Go Insane” in October.-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            The group’s name, P1Harmony, is a combination of “Plus”, the number “1” and “Harmony”, which contains the meaning of ‘6 boys with unlimited potential to create various harmonies as a team with “One” extra unknown’.-->
+<!--            Prior to their official debut, FNC Entertainment released a Sci-Fi movie starring P1Harmony, P1H: The Beginning of a New World, which laid a foundation for their unique lore and discography. P1Harmony then formally debuted on October 28th, 2020 with “SIREN,” whose music video connected with the lore from the film.-->
+<!--            P1Harmony are heavily involved in their creative process whether it be their albums or covers. Main rappers Intak and Jongseob have the most writing credits on the group’s discography each, whereas vocalists Keeho and Jiung also have composition credits on some of the group’s B-Sides.-->
+<!--        </item>-->
+<!--    </string-array>-->
+</resources>
